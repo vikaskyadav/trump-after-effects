@@ -1,10 +1,11 @@
 ## Welcome to GitHub Pages
 
-<hr>
-#Nov 13, 2016
-## Source- http://time.com/4569129/racist-anti-semitic-incidents-donald-trump/
-Racist Incidents Are Up Since Donald Trump's Election. These Are Just a Few of Them
-Katie Reilly
+<div style="border:5px solid black;">
+
+Source- http://time.com/4569129/racist-anti-semitic-incidents-donald-trump/
+Racist Incidents Are Up Since Donald Trump's Election
+
+These Are Just a Few of Them by Katie Reilly
 Nov 13, 2016
 
 In the days since the presidential election, states across the country have seen increased incidents of racist or anti-Semitic vandalism and violence, many of which have drawn directly on the rhetoric and proposals of President-elect Donald Trump.
@@ -59,3 +60,4 @@ Police in Ann Arbor, Mich., are investigating the incident, and the Michigan cha
 In a separate incident on Thursday, students at Royal Oak Middle School in Royal Oak, Mich., chanted “build that wall!” during their lunch period, echoing Trump's promise to build a wall on the Mexican border to prevent illegal immigration.
 
 <hr>
+</div>
