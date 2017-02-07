@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
 
-<div style="border:5px solid black;">
 
 Source- http://time.com/4569129/racist-anti-semitic-incidents-donald-trump/
 Racist Incidents Are Up Since Donald Trump's Election
@@ -60,4 +59,4 @@ Police in Ann Arbor, Mich., are investigating the incident, and the Michigan cha
 In a separate incident on Thursday, students at Royal Oak Middle School in Royal Oak, Mich., chanted “build that wall!” during their lunch period, echoing Trump's promise to build a wall on the Mexican border to prevent illegal immigration.
 
 <hr>
-</div>
+
