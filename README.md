@@ -1,11 +1,10 @@
-## Welcome to GitHub Pages
+
+#Racist Incidents Are Up Since Donald Trump's Election.These Are Just a Few of Them by Katie Reilly
+##Nov 13, 2016
 
 
 Source- http://time.com/4569129/racist-anti-semitic-incidents-donald-trump/
-Racist Incidents Are Up Since Donald Trump's Election
 
-These Are Just a Few of Them by Katie Reilly
-Nov 13, 2016
 
 In the days since the presidential election, states across the country have seen increased incidents of racist or anti-Semitic vandalism and violence, many of which have drawn directly on the rhetoric and proposals of President-elect Donald Trump.
 
